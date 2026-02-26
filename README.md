@@ -1,16 +1,16 @@
-<h1 align="center">bliep</h1>
+<h1 align="center">Joshua</h1>
 
 <p align="center">
-Software Engineer • Cybersecurity • Embedded Systems
+Software Engineer • Cybersecurity • Embedded Systems • Lua Developer
 </p>
 
 ---
 
 ## 🧑‍💻 Professional Summary
 
-Security-focused software engineer with a strong interest in Linux system monitoring, modular architecture design, and embedded control systems.
+Security-focused software engineer with strong experience in Lua development, Linux system monitoring, embedded architecture and custom gameplay systems.
 
-I build secure, efficient and reliable infrastructure-level software with a security-first mindset.
+I build secure infrastructure tools, modular system frameworks and advanced custom scripting solutions.
 
 ---
 
@@ -23,7 +23,19 @@ I build secure, efficient and reliable infrastructure-level software with a secu
   <img src="https://img.shields.io/badge/System_Architecture-0A0A0A?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Cybersecurity-0A0A0A?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Embedded_Systems-0A0A0A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FiveM_Scripting-0A0A0A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vehicle_Systems-0A0A0A?style=for-the-badge"/>
 </p>
+
+---
+
+## 🎮 Custom Development
+
+- Custom FiveM server scripting  
+- Advanced gameplay logic development  
+- Vehicle system configuration & tuning  
+- Custom framework extensions  
+- Performance optimization for multiplayer environments  
 
 ---
 
@@ -34,6 +46,7 @@ I build secure, efficient and reliable infrastructure-level software with a secu
   <img src="https://img.shields.io/badge/Linux--Native-111111?style=flat-square"/>
   <img src="https://img.shields.io/badge/Modular--Design-111111?style=flat-square"/>
   <img src="https://img.shields.io/badge/Automation-111111?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Game_Systems-111111?style=flat-square"/>
 </p>
 
 ---
@@ -45,7 +58,10 @@ Modular Linux intrusion detection framework written in Lua.
 Includes file integrity monitoring, suspicious process detection and threat scoring.
 
 ### 🤖 Robotics Secure Framework
-Embedded-style modular control system featuring PID logic, hardware abstraction layer and secure architecture principles.
+Embedded-style modular control system featuring PID logic and hardware abstraction architecture.
+
+### 🎮 FiveM Custom Systems
+Custom server-side Lua scripting, vehicle systems, gameplay logic and performance optimization.
 
 ---
 
@@ -58,5 +74,5 @@ Embedded-style modular control system featuring PID logic, hardware abstraction 
 ---
 
 <p align="center">
-Focused on secure and reliable system-level engineering.
+Focused on secure, reliable and performance-driven system engineering.
 </p>
