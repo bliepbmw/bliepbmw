@@ -1,7 +1,6 @@
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bliepbmw&show_icons=true&theme=dark)
-
+## 📊 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=bliepbmw&theme=dark)
 ## 🛠 Skills
 ![Lua](https://img.shields.io/badge/Lua-blue)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-darkred)
