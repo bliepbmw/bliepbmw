@@ -1,5 +1,6 @@
+
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bliepbmw&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bliepbmw&show_icons=true&theme=dark)
 
 ## 🛠 Skills
 ![Lua](https://img.shields.io/badge/Lua-blue)
