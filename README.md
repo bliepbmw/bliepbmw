@@ -1,64 +1,62 @@
+<h1 align="center">bliep</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Joshua;Software+Engineer;Robotics+%26+Embedded+Systems;Cybersecurity+%26+Secure+Architecture" />
+Software Engineer • Cybersecurity • Embedded Systems
 </p>
 
 ---
 
-## About
+## 🧑‍💻 Professional Summary
 
-Software engineer focused on secure systems, embedded robotics, and low-level automation.
+Security-focused software engineer with a strong interest in Linux system monitoring, modular architecture design, and embedded control systems.
 
-I design and build reliable, security-first architectures combining hardware and software engineering.
-
-My work centers around precision, performance, and hardened infrastructure.
+I build secure, efficient and reliable infrastructure-level software with a security-first mindset.
 
 ---
 
-## Core Expertise
-
-- Secure System Architecture  
-- Robotics Control Systems  
-- Embedded & Microcontroller Programming  
-- Lua Scripting & Automation  
-- Linux Infrastructure  
-- Vulnerability Analysis & System Hardening  
-
----
-
-## Technical Stack
+## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/Embedded-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Robotics-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux"/>
+  <img src="https://img.shields.io/badge/Lua-0A0A0A?style=for-the-badge&logo=lua&logoColor=2C2D72"/>
+  <img src="https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+  <img src="https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=F05032"/>
+  <img src="https://img.shields.io/badge/System_Architecture-0A0A0A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-0A0A0A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Embedded_Systems-0A0A0A?style=for-the-badge"/>
 </p>
 
 ---
 
-## Engineering Principles
+## 🔐 Focus Areas
 
-- Security-first development  
-- Clean, maintainable architecture  
-- Low-level system efficiency  
-- Reliable hardware-software integration  
-- Automation with precision  
+<p align="center">
+  <img src="https://img.shields.io/badge/Security--First-111111?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Linux--Native-111111?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Modular--Design-111111?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Automation-111111?style=flat-square"/>
+</p>
 
 ---
 
-## Activity
+## 🚀 Selected Projects
+
+### 🔐 Secure System Monitor
+Modular Linux intrusion detection framework written in Lua.  
+Includes file integrity monitoring, suspicious process detection and threat scoring.
+
+### 🤖 Robotics Secure Framework
+Embedded-style modular control system featuring PID logic, hardware abstraction layer and secure architecture principles.
+
+---
+
+## 📊 Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=bliepbmw&theme=dark&hide_border=true&background=000000"/>
+  <img src="https://streak-stats.demolab.com?user=bliepbmw&theme=dark&hide_border=true"/>
 </p>
 
 ---
 
 <p align="center">
-  <sub>Building secure, intelligent systems.</sub>
+Focused on secure and reliable system-level engineering.
 </p>
